@@ -20,7 +20,7 @@ This project aims to predict the likelihood of heart failure based on various me
 Predict the presence of **HeartDisease** (1: Yes, 0: No) using the listed medical attributes.
 
 ## Steps:
-1. **Exploratory Data Analysis (EDA)**: Data cleaning, visualization, and understanding relationships.
+1. **Exploratory Data Analysis (EDA)**: Data cleaning, visualisation, and understanding relationships.
 2. **Model Building**: Various classification models (e.g., Logistic Regression, Random Forest, XGBoost) to predict heart failure.
 3. **Evaluation**: Model performance evaluation using metrics like accuracy, confusion matrix, and ROC-AUC.
 
